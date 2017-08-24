@@ -6,7 +6,7 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Taylor
 tagline:	'blog'
 description:	'My personal blog.'
 url:		www.wenshihang.top
