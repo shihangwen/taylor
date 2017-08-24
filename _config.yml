@@ -9,11 +9,11 @@ permalink:	/blog/:title
 title:		Thinny
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://camporez.com
+url:		www.wenshihang.top
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Taylor Wen'
+  url:		www.wenshihang.top
 
 paginate:	5
 
@@ -23,20 +23,20 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/wenshihang20082
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/shihangwen
     desc:	Fork me on github
 
-  - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
-    desc:	Add me on google+
+  - icon:	facebook
+    url:	https://www.facebook.com/profile.php?id=100009824943160
+    desc:	Add me on facebook
 
-  - icon:	feed
-    url:	http://camporez.com/atom.xml
-    desc:	Subscribe to my feed
+  - icon:	instagram
+    url:	https://www.instagram.com/shihangwen/
+    desc:	Follow me on instagram
     
 menu:
   - title:	Home
@@ -46,7 +46,6 @@ menu:
     url:	/about
     
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
+  author:	Taylor
+  url:		www.wenshihang.top
   type_title:	Some rights reserved
-  type_url:	http://creativecommons.org/licenses/by-nc/2.5
