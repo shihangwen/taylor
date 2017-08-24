@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#Thinny - The Infinite's Nymphet
 
-You can use the [editor on GitHub](https://github.com/shihangwen/taylor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##About
+Thinny is a beautiful theme for [Jekyll](http://jekyllrb.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(if you're looking for the [Ghost](http://ghost.org) release of the theme, check [this page](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra))
 
-### Markdown
+##Demo
+[![Preview image](https://f.cloud.github.com/assets/5755892/2002329/bdb5a052-85ed-11e3-8e00-a892910b6917.png)](http://camporez.com/)
+The above image is a preview of how the post header looks on Thinny.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A live demo is available [on my personal blog](http://camporez.com/).
 
-```markdown
-Syntax highlighted code block
+##More information
+Read the blog post [here](http://camporez.com/blog/thinny-2/).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shihangwen/taylor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Reporting issues
+You can report an issue or request a feature [here](http://github.com/camporez/camporez.github.io/issues) or on [twitter](http://twitter.com/iancamporez).
